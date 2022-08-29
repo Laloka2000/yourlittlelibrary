@@ -7,4 +7,4 @@ Our project started in our second semester for web development class. After we t
 
 ## Contributors
 
-[![](https://contrib.rocks/image?repo=r-jj09/web-development-uni-project)](https://github.com/r-jj09/web-development-uni-project/graphs/contributors)
+[![](https://contrib.rocks/image?repo=r-jj09/your-little-library)](https://github.com/r-jj09/your-little-library/graphs/contributors)
