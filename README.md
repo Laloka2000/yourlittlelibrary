@@ -2,7 +2,7 @@
  
 ## About
 
-Our project started in our second semester for web development class. After we turned it in we left it where it was. But we decided to pick it up where we left off, work on it and sharpen our skills with our little library.
+Our project started in our second semester for web development class. 
 
 
 ## Contributors
